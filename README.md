@@ -1,2 +1,22 @@
 # 空洞骑士千项修改器 HollowKnightTrainer
-##[点此下载 Download Here](https://github.com/charlescao460/HollowKnightTrainer/raw/master/Release/HollowKnightTrainer.exe)
+[点此下载 Download Here](https://github.com/charlescao460/HollowKnightTrainer/raw/master/Release/HollowKnightTrainer.exe)
+![ScreenShots](/Screenshots/anti-gravity.png)
+
+
+
+*特性：
+  *1. MFC框架编写，兼容性佳
+  *2.开源且没有注入操作，不会报毒，安全可靠
+  *3.可以在没取得二段跳的时候开启无限空跳
+  *4.内置语音提示，全屏游戏更方便
+  *5.内置近1500项变量表，可以修改近乎一切数据，如:
+    *5-1.各类物品，比如矿石，哀悼者的花，钥匙，护符等
+    *5-2.技能，可以直接修改得到二段跳，爬墙，刀技，冲刺等所有技能
+    *5-3.怪物图鉴（日志），可以直接修改得到图鉴
+    *5-4.关键存档数据，比如游戏时间，游戏完成度，存档类型(是否为钢铁之魂)
+    *5-5.可以显示全地图
+    *5-6.地形变化，例如可以调整十字路是否被污染，某处的门是否被打开等，可以一开局就把黑卵圣殿打开
+    *5-7.物理常量，如重力，奔跑速度，跳跃高度
+    *5-8-技能冷却时间，如冲刺，蓄力斩等
+    *5-9.故事进度，例如可以将左特复活等
+  *6.更多玩法可以自己探索，大部分变量都是可以修改的
